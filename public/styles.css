@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("Inter-Bold.woff2") format("woff2")
+}
+
+:root {
+    /* Your default theme */
+    --background: #14161B;
+    --foreground: white;
+  }
+  
+  [data-theme='dark'] {
+    --background: white;
+    --foreground: black;
+  }
+  

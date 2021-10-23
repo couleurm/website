@@ -1,0 +1,38 @@
+[
+  {
+    "name": "cl",
+    "url": "https://github.com/couleur-tweak-tips/utils/blob/main/Installers/CustomizableLauncher.ps1",
+    "title": "Custom Launcher",
+    "description": "Automation at your fingertips, search through websites, run my scripts easily, everything from the Run window"
+  },
+  {
+    "name": "blur",
+    "url": "https://github.com/couleur-tweak-tips/utils/blob/main/Installers/blur.ps1",
+    "title": "blur",
+    "description": "Installs blur, free, open-source interpolation/blur creation software: fast, convenient to use and feature packed."
+  },
+  {
+    "name": "voukoder",
+    "url": "https://github.com/couleur-tweak-tips/utils/blob/main/Installers/Voukoder.ps1",
+    "title": "Voukoder",
+    "description": "Passively installs Voukoder, parses the releases and launches the connector with passive arguments "
+  },
+  {
+    "name": "lcl",
+    "url": "https://github.com/couleur-tweak-tips/utils/blob/main/Installers/LunarClientLite.ps1",
+    "title": "Lunar Client Lite",
+    "description": "Installer for Aetopia's Lunar Client Lite, a fast, simple and unlocked launcher for Lunar Client."
+  },
+  {
+    "name": "graal",
+    "url": "https://github.com/couleur-tweak-tips/utils/blob/main/Installers/GraalVM.ps1",
+    "title": "GraalVM",
+    "description": "Grabs some community edition builds from GraalVM and patches Lunar Client Lite with the correct settings."
+  },
+  {
+    "name": "mpv",
+    "url": "https://github.com/couleur-tweak-tips/utils/blob/main/Installers/mpvProtocol.ps1",
+    "title": "MPV Protocol",
+    "description": "Adds a protocol handler so it opens MPV when you click on mpv:// links, designed to help with non-embeddable Discord videos."
+  }
+]
