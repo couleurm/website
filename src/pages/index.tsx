@@ -29,6 +29,11 @@ export default function Home() {
                         href="https://github.com/couleur-tweak-tips"
                         color="bg-gray-space-gray dark:bg-socials-github"/>
                     <Card
+                        title="Twitter"
+                        description="Our Twitter account that releases updates and sneak peeks."
+                        href="https://twitter.com/CouleurTweaks"
+                        color="bg-socials-twitter"/>
+                    <Card
                         title="Youtube"
                         description="Check out Couleur's Youtube channel. :content:"
                         href="https://www.youtube.com/channel/UCgGXSd7IFxBafHxYs7Omb9Q"

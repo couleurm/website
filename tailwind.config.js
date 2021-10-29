@@ -15,7 +15,8 @@ module.exports = {
                 socials: {
                     'discord': '#7289da',
                     'github': '#f0f6fc',
-                    'youtube': '#ff1a1a'
+                    'youtube': '#ff1a1a',
+                    'twitter': '#1d9bf0'
                 }
             },
         },
