@@ -1,5 +1,5 @@
 import React from "react";
-import { logoToggle, images } from "../utils/content"
+import {logoToggle, images} from "../utils/content"
 
 export default function Logo() {
     const {toggled, toggle} = logoToggle()
