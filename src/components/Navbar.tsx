@@ -36,8 +36,8 @@ export function NavBar() {
             className="flex items-center justify-between border-gray-200 dark:border-gray-700 mx-auto pt-8 pb-8 sm:pb-16 text-gray-900 bg-gray-50 dark:bg-gray-rich-black bg-opacity-60 dark:text-gray-100">
             <div>
                 <NavItem href="/" text="Home"/>
-                <NavItem href="/about" text="About"/>
-                <NavItem href="/scripts" text="Scripts"/>
+                <NavItem href="https://t.me/Couleur" text="Contact"/>
+                <NavItem href="https://github.com/snthcy" text="Website by synthicy"/>
             </div>
             <button
                 aria-label="Toggle Dark Mode"
