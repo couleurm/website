@@ -26,7 +26,7 @@ export default function Home() {
                     <Card
                         title="GitHub"
                         description="All scripts in CTT are open source! Come check out the code."
-                        href="https://github.com/couleur-tweak-tips/utils"
+                        href="https://github.com/couleur-tweak-tips"
                         color="bg-gray-space-gray dark:bg-socials-github"/>
                     <Card
                         title="Twitter"
