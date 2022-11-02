@@ -9,20 +9,20 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start"
   },
   "dependencies": {
     "classnames": "^2.3.1",
-    "next": "^11.1.2",
+    "next": "12.x",
     "next-themes": "^0.0.15",
     "node-fetch": "^3.0.0",
-    "react": "17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "^15.6.0",
-    "@types/react": "^18.0.21",
+    "@types/react": "^18.0.24",
     "autoprefixer": "^10.2.5",
     "postcss": "^8.3.0",
     "tailwindcss": "^2.1.2",
