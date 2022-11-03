@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <>
             <Meta/>
-            <div className="max-w-lg mx-auto mt-20 p-10 justify-center items-center bg-gray-50 dark:bg-gray-rich-black">
+            <div className="max-w-lg mx-auto p-10 justify-center items-center bg-gray-50 dark:bg-gray-rich-black">
                 <NavBar/>
                 <div className="flex items-center justify-center mb-5">
                     <Logo/>
