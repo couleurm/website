@@ -21,6 +21,11 @@ module.exports = {
 				destination: 'https://raw.githubusercontent.com/couleur-tweak-tips/TweakList/master/Master.ps1',
 				permanent: true,
 			},
+			{
+				source: 'tldev2',
+				destination: 'https://raw.githubusercontent.com/couleur-tweak-tips/TweakList/master/Master.ps1',
+				permanent: true,
+			},
 		]
     },
 };
