@@ -15,13 +15,18 @@ module.exports = {
         ];
     },
     async redirects() {
-		return [
-			{
-				source: '/tldev',
-				destination: 'https://raw.githubusercontent.com/couleur-tweak-tips/TweakList/master/Master.ps1',
-				permanent: true,
-			}
-		]
+        return [
+            {
+              source: '/',
+              has: [
+                    {
+                      type: 'host',
+                      value: 'tldevtest123\\..*',
+                    },
+              ],
+              destination: 'https://raw.githubusercontent.com/couleur-tweak-tips/TweakList/master/Manifests.json'
+          },
+        ]
     },
 };
 
