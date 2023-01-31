@@ -18,6 +18,7 @@ module.exports = {
         return [
             {
               source: '/',
+              permanent: true,
               has: [
                     {
                       type: 'host',
