@@ -37,7 +37,7 @@ export function NavBar() {
             <div>
                 <NavItem href="/" text="Home"/>
                 <NavItem href="https://t.me/Couleur" text="Contact"/>
-                <NavItem href="https://github.com/couleurm/website" text="websrc"/>
+                <NavItem href="https://github.com/couleurm/website" text="Source"/>
             </div>
             <button
                 aria-label="Toggle Dark Mode"

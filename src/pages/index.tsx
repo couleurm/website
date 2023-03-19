@@ -13,9 +13,8 @@ export default function Home() {
                     <Logo/>
                 </div>
                 <h2 className="text-center font-bold text-4xl text-gray-800 dark:text-gray-200">Couleur Tweak Tips</h2>
-
                 <h3 className={"rounded-md mb-6 mt-3 text-center p-2 bg-gray-200 dark:bg-gray-space-gray text-gray-800 dark:text-gray-200"}>
-                Non lucrative community centered about teaching and experimenting with video, Windows tweaking and a lot more!
+                A community centered around experimenting with and providing free resources for video processing, system tweaking, and more!
                 </h3>
                 <div className="grid grid-cols-1 gap-3">
                     <Card
@@ -25,17 +24,17 @@ export default function Home() {
                         color="bg-socials-discord"/>
                     <Card
                         title="GitHub"
-                        description="All scripts in CTT are open source! Come check out the code."
+                        description="All of CTT's scripts are open source! Come check out the code."
                         href="https://github.com/couleur-tweak-tips"
                         color="bg-gray-space-gray dark:bg-socials-github"/>
                     <Card
                         title="Twitter"
-                        description="Our Twitter account that releases updates and sneak peeks."
+                        description="Our Twitter account which releases updates and sneak peeks."
                         href="https://twitter.com/CouleurTweaks"
                         color="bg-socials-twitter"/>
                     <Card
                         title="Youtube"
-                        description="Check out Couleur's Youtube channel. (Minecraft PvP and CTT tutorials)"
+                        description="Check out Couleur's Youtube channel, which focuses on Minecraft PvP and CTT tutorials"
                         href="https://www.youtube.com/channel/UCgGXSd7IFxBafHxYs7Omb9Q"
                         color="bg-socials-youtube"/>
                 </div>
