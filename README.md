@@ -1,1 +1,1 @@
-A nice website presenting CTT, [check it out](https://ctt.cx)
+https://ctt.cx is now maintainted over at [`couleur-tweak-tips/CTT`](https://github.com/couleur-tweak-tips/CTT)
